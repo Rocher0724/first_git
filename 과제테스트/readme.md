@@ -1,7 +1,7 @@
 ﻿---
 관심분야  
 ---
-	#* 기타(guiter) 라이프
+	* 기타(guiter) 라이프
 ##1. 기
 
 > Everyone has a plan.Until they get punched in the mouth. - Mike Tyson
