@@ -2,7 +2,7 @@
 관심분야  
 ---
 	* 기타(guiter)
-1. 기
+#1. 기
 
 > Everyone has a plan.Until they get punched in the mouth. - Mike Tyson
 > 누구나 그럴싸한 계획을 가지고있다. 쳐맞기 전까지는.
